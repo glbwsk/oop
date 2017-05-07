@@ -1,3 +1,3 @@
-# OOP
-Object Oriented Programming - sem 3
+# hotel-system
+Hotel system for managing bookings, customers, employees etc. 
  
